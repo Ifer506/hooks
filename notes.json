@@ -1,0 +1,19 @@
+{
+    "notes" : [
+      {
+        "id": 1,
+        "desc": "State management in react",
+        "important": true
+      },
+      {
+        "id": 2,
+        "desc": "Some message from an atorny",
+        "important": false
+      },
+      {
+        "desc": "asdas",
+        "important": false,
+        "id": 3
+      }
+    ]
+  }
